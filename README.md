@@ -75,14 +75,6 @@ cd frontend/ai/
 npm run dev
 ```
 
-- ### DB Sever
-Open 2 terminal and run:
-```
-python appStorage.py
-```
-```
-ngrok http 5000
-```
 
 - ### Interface
 <img src="./figs/interface.jpg" alt="image" style="zoom:50%;" />
