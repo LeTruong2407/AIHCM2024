@@ -77,7 +77,7 @@ npm run dev
 
 
 - ### Interface
-<img src="./figs/interface.jpg" alt="image" style="zoom:50%;" />
+<img src="./figs/Image.png" alt="image" style="zoom:50%;" />
 
 
 
