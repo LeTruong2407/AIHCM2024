@@ -34,8 +34,8 @@ Detailed on dataset extraction: [data](dataset_extraction/README.md)
 ## Installation
 - ### Backend
 ```
-conda create -n AIChallenge2023
-conda activate AIChallenge2023
+conda create -n AIHCM2024 python=3.10
+conda activate AIHCM2024
 pip install git+https://github.com/openai/CLIP.git
 pip install -r requirements.txt
 ```
